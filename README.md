@@ -1,71 +1,106 @@
 # Heather Anne Talbott, Ph.D.
+
 hatalbott2@gmail.com
+
 Cheyenne, WY
 
-##Education
-Ph.D. Biochemistry and Molecular Biology,	2011-2017
+## Education
+
+**Ph.D. Biochemistry and Molecular Biology**,	2011-2017
+
 University of Nebraska Medical Center, Omaha, NE, USA 
 
-B.S. Microbiology, B.S. Physiology,	2005-2010
+**B.S. Microbiology**, 2005-2010
+
 University of Wyoming, Laramie, WY, USA
 
-##Certification and Licenses
-Mini-MPH for Public Health Professionals,	2021
-New England Public Health Training Center, 5.5 Credit Hours
+**B.S. Physiology**, 2005-2010
 
-Data Collection for Program Evaluation,	2021
-Northwest Center for Public Health Practice, 3 Credit Hours
+University of Wyoming, Laramie, WY, USA
 
-Teaching Proficiency Program Certificate,	2015
+## Certification and Licenses
+
+**Mini-MPH for Public Health Professionals**, 2021
+
+New England Public Health Training Center, 5.5 credit hours
+
+**Data Collection for Program Evaluation**, 2021
+
+Northwest Center for Public Health Practice, 3 credit hours
+
+**Teaching Proficiency Program Certificate**, 2015
+
 University of Nebraska Medical Center
 
-Researcher Technology Commercialization Certificate,	2012
+**Researcher Technology Commercialization Certificate**, 2012
+
 UneMed Corporation, UNMC technology transfer office
 
-##Research/Other Appointments and Positions
-COVID-19 Data Analyst, Supervisor: Clay Van Houten	2020-present
-Infectious Disease Epidemiology
-Wyoming Department of Health, Cheyenne, WY
-−	Developed R and SAS codes to process and report Wyoming COVID test results 
+## Research/Other Appointments and Positions
 
-COVID-19 Logistics Manager, Supervisor: Noah Hull	2020
-Wyoming Public Health Laboratory
-Wyoming Department of Health, Cheyenne, WY
+**COVID-19 Data Analyst** @ [Wyoming Department of Health](https://health.wyo.gov/) _ _(2020-present)_ _
+
+Infectious Disease Epidemiology, Supervisor: Clay Van Houten	
+
+− Developed R and SAS codes to process and report Wyoming COVID test results 
+
+
+**COVID-19 Logistics Manager** @ [Wyoming Department of Health](https://health.wyo.gov/) _ _(2020)_ _
+
+Wyoming Public Health Laboratory, Supervisor: Noah Hull
+
 −	Developed R codes to process and report WPHL COVID test results 
 
-Postdoctoral Fellow, Mentor: Dr. Jon Hennebold	2017-2020
-Division of Reproductive and Developmental Sciences
-Oregon Health and Sciences University, Beaverton, OR
+
+**Postdoctoral Fellow** @ [Oregon Health and Sciences University](https://www.ohsu.edu/) _ _(2017-2020)_ _
+
+Division of Reproductive and Developmental Sciences, Mentor: Dr. Jon Hennebold
+
 −	Investigation of intraovarian regulators of ovulation and luteal development in the rhesus macaque model of human reproductive function
 
-Postdoctoral Research Associate, Mentor: Dr. John S. Davis 	2017
-Obstetrics and Gynecology
-University of Nebraska Medical Center, Omaha, NE
+
+**Postdoctoral Research Associate** @ [University of Nebraska Medical Center](https://www.unmc.edu/) _ _(2017)_ _
+
+Obstetrics and Gynecology, Mentor: Dr. John S. Davis
+
 −	Proteomic analysis of isolated lipid droplets from beef cattle.
 
-Graduate Student, Mentor: Dr. John S. Davis	2011-2017
-Biochemistry and Molecular Biology	
-University of Nebraska Medical Center, Omaha, NE
+
+**Graduate Student** @ [University of Nebraska Medical Center](https://www.unmc.edu/) _ _(2011-2017)_ _
+
+Biochemistry and Molecular Biology, Mentor: Dr. John S. Davis	
+
 −	Investigation of factors important for the formation of the bovine corpus luteum as well as regulation of luteal demise at the end of a cycle
 
-Research Technician I, Supervisor: Dr. John S. Davis	2011
-Obstetrics and Gynecology
-University of Nebraska Medical Center, Omaha, NE
+
+**Research Technician I** @ [University of Nebraska Medical Center](https://www.unmc.edu/) _ _(2011)_ _
+
+Obstetrics and Gynecology, Supervisor: Dr. John S. Davis
+
 −	Determination of prostaglandin F 2 α (PGF) directed changes in the bovine corpus luteum
 
-Undergraduate Research Fellow, Mentor: Dr. Donal Skinner	2006-2010
-Zoology and Physiology, University of Wyoming, Laramie, WY
+
+**Undergraduate Research Fellow** @ [University of Wyoming](http://www.uwyo.edu/) _ _(2006-2010)_ _
+
+Zoology and Physiology, Mentor: Dr. Donal Skinner
+
 −	Explored the presence of gonadotropin-releasing hormone (GnRH), its receptor, and EP24.15, an enzyme that cleaves GnRH, outside of the hypothalamic-pituitary-gonadal axis.
 
-Undergraduate Research Fellow, Mentor: Dr. John Willford	2010-2010
-Molecular Biology, University of Wyoming, Laramie, WY
+
+**Undergraduate Research Fellow** @ [University of Wyoming](http://www.uwyo.edu/) _ _(2010-2010)_ _
+
+Molecular Biology, Mentor: Dr. John Willford
+
 −	Reporter bacteriophage system for detection of Escherichia coli O157H7 in food.
 
-Summer Research Student, Mentor: Dr. Mark Wilson	2010-2010
-Biochemistry, University of Nebraska-Lincoln, Lincoln, NE
+
+**Summer Research Student**	@ [University of Nebraska-Lincoln](https://www.unl.edu/) _ _(2010-2010)_ _
+
+Biochemistry, Mentor: Dr. Mark Wilson
+
 −	Examined the importance of YhbO H105 in protecting Escherichia coli from oxidative stress. 
 
-##Teaching Appointments and Positions
+## Teaching Appointments and Positions
 Teaching Assistant, Macromolecular Structure and Function, 	2013-2013
 Supervisor: Dr. Richard MacDonald
 Biomedical Research Training Program, University of Nebraska Medical Center
@@ -81,7 +116,7 @@ Supervisor: Rachel Watson
 General/Medical Microbiology Lab, University of Wyoming
 −	Taught lab lectures, assisted students, wrote quizzes, graded reports and projects.
 
-##Continuing Education Training
+## Continuing Education Training
 Learning Actively Mentoring Program	2021
 University of Wyoming, Laramie, WY
 −	A comprehensive, sustained mentoring and professional development program with an emphasis on how to best adopt active learning strategies in large-scale active learning classrooms
@@ -106,14 +141,14 @@ Obstetrics and Gynecology
 Uniformed Services University, Bethesda, MD
 −	Examined at the difference of EP24.15 activity in un-treated and gonadotropin releasing hormone agonist treated mice and rats as part of two consecutive summer internships
 
-##Grant and Fellowship Support
-###Postdoctoral
+## Grant and Fellowship Support
+### Postdoctoral
 Lalor Foundation Postdoctoral Fellowship	2019-2020
 The Lalor Foundation – “Advancing Research and Innovation 
 in Reproductive Health”
 −	Project Title: Cytokine Regulators of Ovulation and Luteal Development
 
-###Graduate
+### Graduate
 AFRI PreDoctoral Fellowship	2014-2017
 National Institute of Food and Agriculture, USDA
 −	Project Title: Elucidating the formation and function of lipid droplets in the bovine corpus luteum
@@ -126,7 +161,7 @@ UNMC Assistantship/Fellowship	2013-2014
 University of Nebraska Medical Center
 −	Project Title: Elucidating the formation and function of lipid droplets in the bovine corpus luteum
 
-###Undergraduate
+### Undergraduate
 INBRE Undergraduate Fellowship, University of Wyoming	2010
 NSF/EPSCoR Undergraduate Fellowship, University of Wyoming 	2010
 NSF Research Experience for Undergraduates, University of Nebraska-Lincoln	2010
@@ -135,8 +170,8 @@ McNair Scholar’s Program-Research Grant, University of Wyoming	2008
 NSF/EPSCoR Undergraduate Fellowship, University of Wyoming	2007
 NSF/EPSCoR Freshman Summer Fellowship, University of Wyoming	2006
 
-##Honors and Awards
-###Postdoctoral
+## Honors and Awards
+### Postdoctoral
 Loan Repayment Program for Contraceptive and Infertility Research	2019-2021
 National Institutes of Health
 −	Project Title: Intrafollicular Regulators of Ovulation and Luteal Development
@@ -149,7 +184,7 @@ Anita Payne Scholarship	2018
 Society for the Study of Reproduction
 −	Supports the cost of travel and participation in the Frontiers in Reproduction (FIR) program
 
-###Graduate
+### Graduate
 Graduate Student of Distinction	2017
 University of Nebraska Medical Center 
 
@@ -168,7 +203,7 @@ Rocky Mountain Reproductive Sciences Symposium
 Exceptional Incoming Graduate Student,	2011
 University of Nebraska Medical Center
 
-###Undergraduate
+### Undergraduate
 Undergraduate Poster Award, Second Place, University of Wyoming 	2010
 John A. Hill Memorial Scholarship, University of Wyoming	2010
 Leroy and Martha Maki Scholarship, University of Wyoming	2009-2010
@@ -180,8 +215,8 @@ VP Academic Affairs List – Honor Roll, University of Wyoming	2009, 2010
 Dean’s List – Honor Roll, University of Wyoming	2005, 2006
 Dean’s List – Honor Roll, University of Wyoming	2008, 2009
 
-##Publications
-###Research Manuscripts
+## Publications
+### Research Manuscripts
 
 Formation and characterization of lipid droplets of the bovine corpus luteum.
 Talbott HA, Plewes MR, Krause C, Hou X, Zhang P, Rizzo WB, Wood JR, Cupp AS, Davis JS.
@@ -235,7 +270,7 @@ The gonadotropin-releasing hormone type I receptor is expressed in the mouse cer
 Albertson AJ, Talbott H, Wang Q, Jensen D, Skinner DC. Cerebellum. 2008;7(3):379-84. 
 doi: 10.1007/s12311-008-0038-8. PMID: 18592335
 
-###Book Chapters
+### Book Chapters
 Preface and cover illustrations, In: The Life Cycle of the Corpus Luteum. 
 Meidan R, Davis JS, Talbott H. Springer International Publishing. Meidan R. ed., 2017; v-vii. 
 doi: 10.1007/978-3-319-43238-0
@@ -244,7 +279,7 @@ Chapter 4: Luteal Lipid Droplets and Metabolic Pathways, In: The Life Cycle of t
 Talbott H and Davis JS. Springer International Publishing. Meidan R. ed., 2017; 4:57-78. 
 doi: 10.1007/978-3-319-43238-0
 
-###Preprints
+### Preprints
 
 Composition of the Lipid Droplets of the Bovine Corpus Luteum
 Heather A. Talbott, Michele R. Plewes, Crystal Krause, Xiaoying Hou, Pan Zhang, William B. Rizzo, Jennifer R. Wood, Andrea S. Cupp, John S. Davis
@@ -254,7 +289,7 @@ Trafficking of Cholesterol from Lipid Droplets to Mitochondria in Bovine Luteal 
 Michele R. Plewes, Crystal Cordes, Emilia Przgrodzka, Heather Talbott, Jennifer Wood, Andrea Cupp, John S. Davis
 bioRxiv 409599; doi: 10.1101/409599
  
-###Abstracts
+### Abstracts
 Poster Presentation: Gonadotropin and Oxygen Regulation of Leukemia Inhibitory Factor Production by Rhesus Macaque Non-luteinized Granulosa Cells. Heather Talbott, Adam Krieg, Jon Hennebold Society for the Study of Reproduction, San Jose, CA. July 16-20, 2019. 
 
 Poster Presentation: Gonadotropin and Oxygen Regulation of Leukemia Inhibitory Factor Production by Rhesus Macaque Non-luteinized Granulosa Cells. Heather Talbott, Adam Krieg, Jon Hennebold. Society for the Study of Reproduction, Northwest Reproductive Sciences Symposium, Astoria, OR. June 7-8, 2019. 
@@ -311,7 +346,7 @@ Poster Presentation: PGF2α stimulates the expression IL8 and other chemokines: 
 Rapid Induction of Interleukin 8 (IL8) Expression during Prostaglandin F2alpha Induced Regression of the Corpus Luteum: Role in Neutrophil degranulation and chemotaxis. 
 Abigail Delaney, Heather Talbott, Yangsheng Yu, Jacques Ramey, Xiaoying Hou, and John S Davis. Annual Meeting of the American Society for Reproductive Medicine. Orlando, FL. October 15-19, 2011
 
-##Presentations
+## Presentations
 Regulators of Ovarian Function: Lipid Droplets and Cytokines	Nov 11, 2019
 Department of Animal Science, University of Wyoming, Laramie, WY
 
@@ -375,8 +410,8 @@ Heather Talbott, John S. Davis.
 Regional Central Association of Obstetricians and Gynecologists Meeting, 
 University of Nebraska Medical Center, Omaha, NE.  
   
-##Service Activities
-###International/National
+## Service Activities
+### International/National
 Trainee-Mentor Luncheon Co-coordinator	2019
 Society for the Study of Reproduction
 
@@ -392,11 +427,11 @@ Society for the Study of Reproduction
 Trainee Affairs Committee Member	2017-2019
 Society for the Study of Reproduction
 
-###Regional
+### Regional
 Midwest Graduate Career Fair Director	2014-2016
 Midwest Graduate Coalition, Omaha & Lincoln, NE
 
-###Institutional
+### Institutional
 Institutional Safety Committee	2017-2020
 Oregon National Primate Research Center, Beaverton, OR
 
@@ -434,7 +469,7 @@ University of Nebraska Medical Center, Omaha, NE
 Graduate Student Association Social Chair	2012-2013
 University of Nebraska Medical Center, Omaha, NE
 
-##Outreach Activities
+## Outreach Activities
 Oregon National Primate Research Center Outreach Program	2017-2020
 Science Saturday, Laboratory Activity “Vio-lacious enciphalorhinitis-PCR”	2019
 High School Biomedical Research Experience, Lab and Lecture “PCR”	2019
@@ -448,22 +483,22 @@ Avery Elementary School Science Fair Judge	2014, 2015
 Expanding Your Horizons Panelist	2014
 International Student Ambassador	2013-2017
 
-##Membership in Professional Societies
-###National Societies
+## Membership in Professional Societies
+### National Societies
 −	American Association for the Advancement of Science
 −	American Society of Cell Biology	
 −	Society for the Study of Reproduction
 
-###Regional Societies
+### Regional Societies
 −	Northwest Reproductive Scientific Symposium	
 −	Nebraska Women’s Leadership Network	
 −	Rocky Mountain Reproductive Sciences	
 
-###Local Societies
+### Local Societies
 −	OHSU Postdoctoral Association
 −	Women in Science 
 
-##Mentoring
+## Mentoring
 −	Eloise Fadial, UWYO/ONPRC Undergraduate Fellow
 o	Currently: University of Rochester, Biomedical Engineering Master’s Student
 −	Kelsie Bowcutt, UWYO/ONPRC Undergraduate Fellow
@@ -478,7 +513,7 @@ o	Currently: Charles R. Drew University of Medicine and Science, Biomedical Scie
 −	Shannen Ramey, Undergraduate Volunteer,
 o	Currently: University of Iowa Health Care, Resident Surgery-General
 
-##Mentors
+## Mentors
 −	Dr. Jon Hennebold, Oregon National Primate Research Center
 −	Dr. John Davis, University of Nebraska Medical Center
 −	Dr. Andrea Cupp, University of Nebraska—Lincoln 

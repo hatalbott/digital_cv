@@ -1,58 +1,41 @@
 # Heather Anne Talbott, Ph.D.
 
-hatalbott2@gmail.com
+[hatalbott2@gmail.com](mailto:hatalbott@gmail.com)
 
 Cheyenne, WY
 
 ## Education
 
-**Ph.D. Biochemistry and Molecular Biology**,	2011-2017
+**Ph.D. Biochemistry and Molecular Biology** _(2011-2017)_
 
-University of Nebraska Medical Center, Omaha, NE, USA 
+[University of Nebraska Medical Center](https://www.unmc.edu/), Omaha, NE, USA 
 
-**B.S. Microbiology**, 2005-2010
+**B.S. Microbiology** _(2005-2010)_
 
-University of Wyoming, Laramie, WY, USA
+[University of Wyoming](http://www.uwyo.edu/), Laramie, WY, USA
 
-**B.S. Physiology**, 2005-2010
+**B.S. Physiology** _(2005-2010)_
 
-University of Wyoming, Laramie, WY, USA
+[University of Wyoming](http://www.uwyo.edu/), Laramie, WY, USA
 
-## Certification and Licenses
-
-**Mini-MPH for Public Health Professionals**, 2021
-
-New England Public Health Training Center, 5.5 credit hours
-
-**Data Collection for Program Evaluation**, 2021
-
-Northwest Center for Public Health Practice, 3 credit hours
-
-**Teaching Proficiency Program Certificate**, 2015
-
-University of Nebraska Medical Center
-
-**Researcher Technology Commercialization Certificate**, 2012
-
-UneMed Corporation, UNMC technology transfer office
 
 ## Research/Other Appointments and Positions
 
-**COVID-19 Data Analyst** @ [Wyoming Department of Health](https://health.wyo.gov/) _ _(2020-present)_ _
+**COVID-19 Data Analyst** @ [Wyoming Department of Health](https://health.wyo.gov/) _(2020-present)_
 
 Infectious Disease Epidemiology, Supervisor: Clay Van Houten	
 
 − Developed R and SAS codes to process and report Wyoming COVID test results 
 
 
-**COVID-19 Logistics Manager** @ [Wyoming Department of Health](https://health.wyo.gov/) _ _(2020)_ _
+**COVID-19 Logistics Manager** @ [Wyoming Department of Health](https://health.wyo.gov/) _(2020)_
 
 Wyoming Public Health Laboratory, Supervisor: Noah Hull
 
 −	Developed R codes to process and report WPHL COVID test results 
 
 
-**Postdoctoral Fellow** @ [Oregon Health and Sciences University](https://www.ohsu.edu/) _ _(2017-2020)_ _
+**Postdoctoral Fellow** @ [Oregon Health and Sciences University](https://www.ohsu.edu/) _(2017-2020)_
 
 Division of Reproductive and Developmental Sciences, Mentor: Dr. Jon Hennebold
 
@@ -101,48 +84,83 @@ Biochemistry, Mentor: Dr. Mark Wilson
 −	Examined the importance of YhbO H105 in protecting Escherichia coli from oxidative stress. 
 
 ## Teaching Appointments and Positions
-Teaching Assistant, Macromolecular Structure and Function, 	2013-2013
+
+**Macromolecular Structure and Function Teaching Assistant** @ [University of Nebraska Medical Center](https://www.unmc.edu/) _(2013-2013)_
+
 Supervisor: Dr. Richard MacDonald
-Biomedical Research Training Program, University of Nebraska Medical Center
+
 −	Led weekly discussion sections for introductory graduate course which included short lectures as well as designing practice problem sets and quizzes.
 
-Supplemental Instructor, General Biology	2008-2010
+**General Biology Supplemental Instructor** @ [University of Wyoming](http://www.uwyo.edu/) _(2008-2010)_
+
 Supervisor: Dr. Mark Lyford
-General Biology Supplemental Instruction Program, University of Wyoming
+
 −	Group tutoring for General Biology students.
 
-Teaching Assistant, Microbiology	2008-2010
+Microbiology Teaching Assistant @ [University of Wyoming](http://www.uwyo.edu/) _(2008-2010)_
+
 Supervisor: Rachel Watson 
-General/Medical Microbiology Lab, University of Wyoming
+
 −	Taught lab lectures, assisted students, wrote quizzes, graded reports and projects.
 
+## Certification and Licenses
+
+**Mini-MPH for Public Health Professionals** _(2021)_
+
+New England Public Health Training Center, 5.5 credit hours
+
+**Data Collection for Program Evaluation** _(2021)_
+
+Northwest Center for Public Health Practice, 3 credit hours
+
+**Teaching Proficiency Program Certificate** _(2015)_
+
+University of Nebraska Medical Center
+
+**Researcher Technology Commercialization Certificate** _(2012)_
+
+UneMed Corporation, UNMC technology transfer office
+
 ## Continuing Education Training
-Learning Actively Mentoring Program	2021
-University of Wyoming, Laramie, WY
+**Learning Actively Mentoring Program**	_(2021)_
+
+ [University of Wyoming](http://www.uwyo.edu/)
+
 −	A comprehensive, sustained mentoring and professional development program with an emphasis on how to best adopt active learning strategies in large-scale active learning classrooms
 
-Frontiers in Reproduction	2018
-Marine Biology Laboratory, Woods Hole, MS
+[**Frontiers in Reproduction**](https://www.mbl.edu/education/advanced-research-training-courses/course-offerings/frontiers-reproduction) _(2018)_
+
+[Marine Biology Laboratory](https://www.mbl.edu/), Woods Hole, MS
+
 −	An intensive 6-week-long laboratory and lecture course for scientists-in-training who seek to improve their knowledge and experimental skills in order to pursue a career in the Reproductive Sciences
 
-Nebraska Health Policy Short Course	2015
-UNMC College of Public Health, Omaha, NE
+**Nebraska Health Policy Short Course**	_(2015)_
+
+[University of Nebraska Medical Center](https://www.unmc.edu/) <!-- College of Public Health-->, Omaha, NE
+
 −	Interactive and applied learning two-day workshop providing overview of policy processes and health policy development in Nebraska
 
-Nebraska Women's Leadership Network – Spring Conference	2015
-University of Nebraska, Lincoln, NE
+**Nebraska Women's Leadership Network – Spring Conference**	_(2015)_
+
+[University of Nebraska-Lincoln](https://www.unl.edu/), Lincoln, NE
+
 −	Network to promote the growth and education of women and create a nationwide network of female leaders with ties to the University of Nebraska-Lincoln.
 
-UNMC Student Senate Leadership Summit	2015
-University of Nebraska Medical Center, Omaha, NE
+**UNMC Student Senate Leadership Summit**	_(2015)_
 
-Research Exchange Student, Mentor: Dr. John Wu	2008, 2009
+[University of Nebraska Medical Center](https://www.unmc.edu/), Omaha, NE
+
+**Research Exchange Student**, Mentor: Dr. John Wu	2008, 2009
+
 Obstetrics and Gynecology 
+
 Uniformed Services University, Bethesda, MD
+
 −	Examined at the difference of EP24.15 activity in un-treated and gonadotropin releasing hormone agonist treated mice and rats as part of two consecutive summer internships
 
 ## Grant and Fellowship Support
 ### Postdoctoral
+
 Lalor Foundation Postdoctoral Fellowship	2019-2020
 The Lalor Foundation – “Advancing Research and Innovation 
 in Reproductive Health”

@@ -28,7 +28,7 @@ twitter_username:
 github_username:  hatalbott
 
 # Build settings
-theme: Architect
+theme: minima
 plugins:
   - jekyll-feed
 

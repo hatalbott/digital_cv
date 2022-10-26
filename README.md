@@ -1,4 +1,4 @@
-# Heather Anne Talbott, Ph.D.
+<!--# Heather Anne Talbott, Ph.D.-->
 
 [hatalbott2@gmail.com](mailto:hatalbott@gmail.com)
 
@@ -386,7 +386,7 @@ Cerebellum. 2008;7(3):379-84. doi: 10.1007/s12311-008-0038-8.
 PMID: 18592335
 
 ### Book Chapters
-**Preface and cover illustrations, In: The Life Cycle of the Corpus Luteum. **
+**Preface and cover illustrations, In: The Life Cycle of the Corpus Luteum.**
 
 Meidan R, Davis JS, Talbott H. 
 

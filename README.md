@@ -4,7 +4,7 @@
 
 Cheyenne, WY
 
-## Education
+# Education
 
 **Ph.D. Biochemistry and Molecular Biology** _(2011-2017)_
 
@@ -19,7 +19,7 @@ Cheyenne, WY
 [University of Wyoming](http://www.uwyo.edu/), Laramie, WY, USA
 
 
-## Research/Other Appointments and Positions
+# Research/Other Appointments and Positions
 
 **COVID-19 Data Analyst** @ [Wyoming Department of Health](https://health.wyo.gov/) _(2020-present)_
 
@@ -83,7 +83,7 @@ Biochemistry, Mentor: Dr. Mark Wilson
 
 −	Examined the importance of YhbO H105 in protecting Escherichia coli from oxidative stress. 
 
-## Teaching Appointments and Positions
+# Teaching Appointments and Positions
 
 **Macromolecular Structure and Function Teaching Assistant** @ [University of Nebraska Medical Center](https://www.unmc.edu/) _(2013-2013)_
 
@@ -103,7 +103,7 @@ Supervisor: Rachel Watson
 
 −	Taught lab lectures, assisted students, wrote quizzes, graded reports and projects.
 
-## Certification and Licenses
+# Certification and Licenses
 
 **Mini-MPH for Public Health Professionals** _(2021)_
 
@@ -121,7 +121,7 @@ University of Nebraska Medical Center
 
 UneMed Corporation, UNMC technology transfer office
 
-## Continuing Education Training
+# Continuing Education Training
 **Learning Actively Mentoring Program**	_(2021)_
 
  [University of Wyoming](http://www.uwyo.edu/)
@@ -158,8 +158,8 @@ Uniformed Services University, Bethesda, MD
 
 −	Examined at the difference of EP24.15 activity in un-treated and gonadotropin releasing hormone agonist treated mice and rats as part of two consecutive summer internships
 
-## Grant and Fellowship Support
-### Postdoctoral
+# Grant and Fellowship Support
+## Postdoctoral
 
 Lalor Foundation Postdoctoral Fellowship _(2019-2020)_
 
@@ -167,7 +167,7 @@ Lalor Foundation Postdoctoral Fellowship _(2019-2020)_
 
 −	Project Title: Cytokine Regulators of Ovulation and Luteal Development
 
-### Graduate
+## Graduate
 AFRI PreDoctoral Fellowship	_(2014-2017)_
 
 [National Institute of Food and Agriculture](https://www.nifa.usda.gov/), United States Department of Agriculture
@@ -186,7 +186,7 @@ UNMC Assistantship/Fellowship	_(2013-2014)_
 
 −	Project Title: Elucidating the formation and function of lipid droplets in the bovine corpus luteum
 
-### Undergraduate
+## Undergraduate
 
 - INBRE Undergraduate Fellowship, University of Wyoming	_(2010)_
 
@@ -202,8 +202,8 @@ UNMC Assistantship/Fellowship	_(2013-2014)_
 
 - NSF/EPSCoR Freshman Summer Fellowship, University of Wyoming	_(2006)_
 
-## Honors and Awards
-### Postdoctoral
+# Honors and Awards
+## Postdoctoral
 
 Loan Repayment Program for Contraceptive and Infertility Research	_(2019-2021)_
 
@@ -223,7 +223,7 @@ Anita Payne Scholarship	_(2018)_
 
 −	Supports the cost of travel and participation in the Frontiers in Reproduction program
 
-### Graduate
+## Graduate
 **Graduate Student of Distinction**	_(2017)_
 
 [University of Nebraska Medical Center](https://www.unmc.edu/)
@@ -248,7 +248,7 @@ Anita Payne Scholarship	_(2018)_
 
 [University of Nebraska Medical Center](https://www.unmc.edu/)
 
-### Undergraduate
+## Undergraduate
 Undergraduate Poster Award, Second Place _(2010)_
 
  [University of Wyoming](http://www.uwyo.edu/)	
@@ -286,8 +286,8 @@ Dean’s List – Honor Roll _(2005, 2006, 2008)_
  [University of Wyoming](http://www.uwyo.edu/)	
 
 
-## Publications
-### Research Manuscripts
+# Publications
+## Research Manuscripts
 
 **Formation and characterization of lipid droplets of the bovine corpus luteum.**
 
@@ -385,7 +385,7 @@ Cerebellum. 2008;7(3):379-84. doi: 10.1007/s12311-008-0038-8.
 
 PMID: 18592335
 
-### Book Chapters
+## Book Chapters
 **Preface and cover illustrations, In: The Life Cycle of the Corpus Luteum.**
 
 Meidan R, Davis JS, Talbott H. 
@@ -402,10 +402,10 @@ Springer International Publishing. Meidan R. ed., 2017; 4:57-78.
 
 doi: 10.1007/978-3-319-43238-0
 
-### Preprints
+## Preprints
 
  
-### Abstracts
+## Abstracts
 Poster Presentation: Gonadotropin and Oxygen Regulation of Leukemia Inhibitory Factor Production by Rhesus Macaque Non-luteinized Granulosa Cells. Heather Talbott, Adam Krieg, Jon Hennebold. Society for the Study of Reproduction, San Jose, CA. July 16-20, 2019. 
 
 Poster Presentation: Gonadotropin and Oxygen Regulation of Leukemia Inhibitory Factor Production by Rhesus Macaque Non-luteinized Granulosa Cells. Heather Talbott, Adam Krieg, Jon Hennebold. Society for the Study of Reproduction, Northwest Reproductive Sciences Symposium, Astoria, OR. June 7-8, 2019. 
@@ -462,7 +462,7 @@ Poster Presentation: PGF2α stimulates the expression IL8 and other chemokines: 
 Rapid Induction of Interleukin 8 (IL8) Expression during Prostaglandin F2alpha Induced Regression of the Corpus Luteum: Role in Neutrophil degranulation and chemotaxis. 
 Abigail Delaney, Heather Talbott, Yangsheng Yu, Jacques Ramey, Xiaoying Hou, and John S Davis. Annual Meeting of the American Society for Reproductive Medicine. Orlando, FL. October 15-19, 2011
 
-## Presentations
+# Presentations
 **Regulators of Ovarian Function: Lipid Droplets and Cytokines**	_(Nov 11, 2019)_
 
 Department of Animal Science, [University of Wyoming](http://www.uwyo.edu/)	, Laramie, WY
@@ -523,8 +523,8 @@ Animal Physiology Seminar, University of Nebraska—Lincoln, Lincoln, NE
 
 Regional Central Association of Obstetricians and Gynecologists Meeting, University of Nebraska Medical Center, Omaha, NE.  
   
-## Service Activities
-### International/National
+# Service Activities
+## International/National
 **Trainee-Mentor Luncheon Co-coordinator**	_(2019)_
 
 [Society for the Study of Reproduction](https://www.ssr.org/my-ssr/home)
@@ -545,12 +545,12 @@ Regional Central Association of Obstetricians and Gynecologists Meeting, Univers
 
 [Society for the Study of Reproduction](https://www.ssr.org/my-ssr/home)
 
-### Regional
+## Regional
 **Midwest Graduate Career Fair Director**	_(2014-2016)_
 
 Midwest Graduate Coalition, Omaha & Lincoln, NE
 
-### Institutional
+## Institutional
 **Institutional Safety Committee**	_(2017-2020)_
 
 Oregon National Primate Research Center, Beaverton, OR
@@ -603,7 +603,7 @@ University of Wyoming/Oregon National Primate Research Center
 
 [University of Nebraska Medical Center](https://www.unmc.edu/), Omaha, NE
 
-## Outreach Activities
+# Outreach Activities
 Oregon National Primate Research Center Outreach Program	2017-2020
 
 Science Saturday, Laboratory Activity “Vio-lacious enciphalorhinitis-PCR”	2019
@@ -628,9 +628,9 @@ Expanding Your Horizons Panelist	2014
 
 International Student Ambassador	2013-2017
 
-## Membership in Professional Societies
+# Membership in Professional Societies
 
-### National Societies
+## National Societies
 
 −	American Association for the Advancement of Science
 
@@ -638,7 +638,7 @@ International Student Ambassador	2013-2017
 
 −	Society for the Study of Reproduction
 
-### Regional Societies
+## Regional Societies
 
 −	Northwest Reproductive Scientific Symposium	
 
@@ -646,7 +646,7 @@ International Student Ambassador	2013-2017
 
 −	Rocky Mountain Reproductive Sciences	
 
-### Local Societies
+## Local Societies
 
 −	OHSU Postdoctoral Association
 
